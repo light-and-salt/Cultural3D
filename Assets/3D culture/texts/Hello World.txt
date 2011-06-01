@@ -1,0 +1,4 @@
+Hello World! This project is created with Unity 3D. 
+Now you are seeing the content of our very first
+Hello World.txt file. Enjoy your simple tour in our 
+3D world.
